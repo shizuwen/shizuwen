@@ -6,8 +6,6 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/Python-1F06AC?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/TypeScript-1F06AC?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Kubernetes-1F06AC?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-1F06AC?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Bash-1F06AC?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Linux-1F06AC?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
